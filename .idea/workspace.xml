@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ed1a94-cc3b-4ccc-a3e7-5391b0828632" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java" afterDir="false" />
-    </list>
+    <list default="true" id="95ed1a94-cc3b-4ccc-a3e7-5391b0828632" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -291,12 +289,12 @@
       <workItem from="1553556522447" duration="6212000" />
       <workItem from="1553622866886" duration="1359000" />
       <workItem from="1553873871601" duration="779000" />
-      <workItem from="1553877980997" duration="2257000" />
+      <workItem from="1553877980997" duration="2560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10607000" />
+    <option name="totallyTimeSpent" value="10910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
