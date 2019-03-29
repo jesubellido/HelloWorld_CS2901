@@ -5,7 +5,7 @@ public class Excercise5 {
     public static int countLetterS(String input) {
         int count = 0;
         for(int i = 0; i < input.length(); i++) {
-            if(input.substring(1,1) == "s") {
+            if(input.charAt(i) == 's') {
                 count++;
             }
         }
@@ -14,6 +14,7 @@ public class Excercise5 {
 
     public static void main(String[] args) {
         int letters = countLetterS("sFind tshe bugs :)");
+        System.out.println("count: ");
         System.out.println(letters);
     }
 }
