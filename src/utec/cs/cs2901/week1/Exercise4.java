@@ -1,10 +1,9 @@
-package utec.cs.cs2901.week1;
-
-public class Excercise4 {
+public class Exercise4 {
     private static String[] texts = new String[]{"find","the","bug"};
+
     private static boolean contains(String text){
         for(String item : texts){
-            if( item == text.toLowerCase() ){
+            if( item.equals(text) ){
                 return true;
             }
         }
