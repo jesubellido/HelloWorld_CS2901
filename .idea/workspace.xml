@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95ed1a94-cc3b-4ccc-a3e7-5391b0828632" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +31,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -86,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/Excercise4.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" />
+        <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" />
       </list>
     </option>
   </component>
@@ -131,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Excercise2">
+  <component name="RunManager" selected="Application.Excercise3">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -166,13 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utec.cs.cs2901.Excercise4" />
+    <configuration name="Excercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utec.cs.cs2901.week1.Excercise3" />
       <module name="HelloWorld" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utec.cs.cs2901.*" />
+          <option name="PATTERN" value="utec.cs.cs2901.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utec.cs.cs2901.Excercise5" />
+    <configuration name="Excercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utec.cs.cs2901.Excercise4" />
       <module name="HelloWorld" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -241,18 +234,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Excercise4" />
-      <item itemvalue="Application.Excercise5" />
       <item itemvalue="Application.HelloWorld (1)" />
       <item itemvalue="Application.Excercise1" />
       <item itemvalue="Application.Excercise2" />
+      <item itemvalue="Application.Excercise3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excercise3" />
         <item itemvalue="Application.Excercise2" />
         <item itemvalue="Application.Excercise1" />
         <item itemvalue="Application.HelloWorld (1)" />
         <item itemvalue="Application.Excercise4" />
-        <item itemvalue="Application.Excercise5" />
       </list>
     </recent_temporary>
   </component>
@@ -328,13 +321,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="input.substring(0,i)" />
-        <watch expression="input.substring(0,i) == &quot;s&quot;" />
-        <watch expression="text.toLowerCase().trim()" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise6.java" />
@@ -356,6 +342,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -367,24 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
