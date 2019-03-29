@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ed1a94-cc3b-4ccc-a3e7-5391b0828632" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
               <folding>
                 <element signature="e#100#101#0" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
@@ -46,17 +43,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state>
+              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -108,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/Excercise4.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" />
+        <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" />
       </list>
     </option>
   </component>
@@ -151,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553879006532" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553879270343" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -306,12 +304,12 @@
       <workItem from="1553556522447" duration="6212000" />
       <workItem from="1553622866886" duration="1359000" />
       <workItem from="1553873871601" duration="779000" />
-      <workItem from="1553877870557" duration="1136000" />
+      <workItem from="1553877870557" duration="1399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9486000" />
+    <option name="totallyTimeSpent" value="9749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -366,12 +364,6 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -398,20 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -426,11 +404,25 @@
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
           <folding>
             <element signature="e#100#101#0" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
