@@ -3,7 +3,7 @@ public class Exercise4 {
 
     private static boolean contains(String text){
         for(String item : texts){
-            if( item.equals(text) ){
+            if( item.equalsIgnoreCase(text) ){
                 return true;
             }
         }
