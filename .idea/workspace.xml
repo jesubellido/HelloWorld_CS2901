@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ed1a94-cc3b-4ccc-a3e7-5391b0828632" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -61,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -115,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" />
+        <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java" />
       </list>
     </option>
   </component>
@@ -176,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Excercise3">
+  <component name="RunManager" selected="Application.Excercise4 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -293,8 +294,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Excercise3" />
         <item itemvalue="Application.Excercise4 (1)" />
+        <item itemvalue="Application.Excercise3" />
         <item itemvalue="Application.Excercise2" />
         <item itemvalue="Application.HelloWorld (1)" />
         <item itemvalue="Application.HelloWorld" />
@@ -315,12 +316,12 @@
       <workItem from="1553622866886" duration="1359000" />
       <workItem from="1553873871601" duration="779000" />
       <workItem from="1553876290357" duration="57000" />
-      <workItem from="1553876887789" duration="2586000" />
+      <workItem from="1553876887789" duration="2901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10993000" />
+    <option name="totallyTimeSpent" value="11308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -335,8 +336,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -437,17 +438,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
