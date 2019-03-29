@@ -227,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Excercise3">
+  <component name="RunManager" selected="Application.Excercise5">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -344,8 +344,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Excercise3" />
         <item itemvalue="Application.Excercise5" />
+        <item itemvalue="Application.Excercise3" />
         <item itemvalue="Application.Excercise4 (1)" />
         <item itemvalue="Application.Excercise2" />
         <item itemvalue="Application.HelloWorld (1)" />
