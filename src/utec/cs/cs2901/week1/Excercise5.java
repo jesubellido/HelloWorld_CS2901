@@ -4,8 +4,8 @@ public class Excercise5 {
 
     public static int countLetterS(String input) {
         int count = 0;
-        for(int i = 0; i < input.length(); i++) {
-            if(input.substring(1,1) == "s") {
+        for(int i = 1; i < input.length(); i++) {
+            if(input.substring(i-1,i).equals("s")) {
                 count++;
             }
         }
