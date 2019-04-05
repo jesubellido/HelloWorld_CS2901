@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ed1a94-cc3b-4ccc-a3e7-5391b0828632" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HelloWorld_CS2901.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/.idea/utec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/.idea/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/cs2901_oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/aggregations/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/aggregations/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/aggregations/agregations.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Marriage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/association.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/dependencies/sample1/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/dependencies/sample1/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/dependencies/sample1/sample1.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/dependencies/sample2/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/dependencies/sample2/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/dependencies/sample2/sample2.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs2901_oop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/utec/cs/cs2901/week1/HelloWorld.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,71 +64,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Man.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Marriage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Woman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
+        <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/association.uml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/String.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7440">
-              <caret line="553" column="18" selection-start-line="553" selection-start-column="18" selection-end-line="553" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -115,6 +138,9 @@
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java" />
         <option value="$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java" />
+        <option value="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Woman.java" />
+        <option value="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Person.java" />
+        <option value="$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Man.java" />
       </list>
     </option>
   </component>
@@ -134,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,18 +170,44 @@
             <path>
               <item name="HelloWorld_CS2901" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld_CS2901" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901_oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld_CS2901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld_CS2901" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901_oop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWorld_CS2901" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld_CS2901" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901_oop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld_CS2901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld_CS2901" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901_oop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld_CS2901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld_CS2901" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901_oop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs2901" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="association" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +387,7 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23939393" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,22 +421,6 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="input.substring(0,i)" />
@@ -397,6 +431,21 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise6.java" />
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java" />
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java" />
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java" />
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java" />
+    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java" />
+    <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1084">
+          <caret line="553" column="18" selection-start-line="553" selection-start-column="18" selection-end-line="553" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -404,49 +453,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise2.java">
+    <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Marriage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/association.uml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/String.class">
+    <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Man.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7440">
-          <caret line="553" column="18" selection-start-line="553" selection-start-column="18" selection-end-line="553" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise3.java">
+    <entry file="file://$PROJECT_DIR$/cs2901_oop/src/cs2901/oop/association/Woman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/Excercise4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utec/cs/cs2901/week1/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
